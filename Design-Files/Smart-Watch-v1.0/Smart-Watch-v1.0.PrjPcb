@@ -235,6 +235,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJMTEVHB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Smart-Watch-v1.0\Design Rule Check - Smart_Watch.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
