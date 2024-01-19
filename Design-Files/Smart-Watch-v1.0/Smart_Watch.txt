@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\eSpark\Desktop\peterchen-smartwatch\Design-Files\Smart-Watch-v1.0\Smart_Watch.PcbDoc
-Date         : 1/5/2024
-Time         : 2:03:39 PM
+Date         : 1/19/2024
+Time         : 5:47:39 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 98.17%
-    Connections, 219
-    Connections routed, 215
-    Connections remaining, 4
+    Routing completion, 100.00%
+    Connections, 221
+    Connections routed, 221
+    Connections remaining, 0
 count : 4
