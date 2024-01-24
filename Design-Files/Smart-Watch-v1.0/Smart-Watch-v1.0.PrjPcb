@@ -217,7 +217,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=Smart_Watch.PcbDoc
+DocumentPath=PCB_Smart-Watch-v1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -234,7 +234,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LJMTEVHB
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Smart-Watch-v1.0\Design Rule Check - Smart_Watch.html
+DocumentPath=Project Outputs for Smart-Watch-v1.0\Design Rule Check - PCB_Smart-Watch-v1.html
 DItemRevisionGUID=
 
 [Configuration1]
